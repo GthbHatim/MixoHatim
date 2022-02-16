@@ -9,6 +9,10 @@ I know-ish how to do some .Sh scripts and some Html, my list of things to learn 
 * Css 🖌
 * Java ☕
 * More about Shell 🐚
+### Active days?
+Always but mostly on weekends, normaly on the afternoon.
+### You are going to do some project?
+I will try, but for the moment i'm learning or doing some personal project.
 ### You want help on something?
 I don't know that much but I will try to help!
 ### Thanks for reading 🐱‍💻
