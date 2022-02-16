@@ -11,4 +11,4 @@ I know-ish how to do some .Sh scripts and some Html, my list of things to learn 
 * More about Shell 🐚
 ### You want help on something?
 I don't know that much but I will try to help!
-###Thanks for reading 🐱‍💻
+### Thanks for reading 🐱‍💻
