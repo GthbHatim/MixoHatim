@@ -1,6 +1,6 @@
 # Hello there 👋
 ### Who am I?
-I'm Hiro, a 13 yr old developer that is trying to learn something, just as a hooby.
+I'm Hatim, a 14 yr old developer that is trying to learn something, just as a hooby.
 ### Where you live?
 I live in Barcelona (Spain), so I talk spanish that's why my english is a little bit off.
 ### What you know?
