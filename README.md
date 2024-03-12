@@ -1,5 +1,5 @@
 # Hello there 👋
-### I know anyone is going to see this but i don't care lmao
+### I know no one is going to see this but i don't care lmao
 ### Who am I?
 I'm Hatim, a 14 yr Spanish/Moroccan developer that is trying to learn something, just as a hooby.
 ### Where you live?
