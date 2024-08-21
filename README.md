@@ -1,19 +1,17 @@
 # Hello there 👋
-### I know no one is going to see this but i don't care lmao
 ### Who am I?
-I'm Hatim, a 14 yr Spanish/Moroccan developer that is trying to learn something, just as a hooby.
+I'm Hatim, a 15 yr developer with experience handiling GNU/Linux, especially Arch Linux and also has past records with web development
 ### Where you live?
-I live in Barcelona (Spain), so my main language is Spanish.
+I live in Barcelona (Spain), so my native languages are Spanish and Catalonian, though i'm also a C1 Proficency Certificate in English.
 ### What you know?
-I know-ish how to do some .Sh scripts and some Html, my list of things to learn are:
-* Python 🐍
-* Css 🖌
-* Java ☕
-* More about Shell 🐚
+I have little development and programing experience, but I have worked in/with:
+* Arduino
+* General electronics
+* Web development
+* GNU/Linux
+* Windows (Poweruser)
+* General computer hardware
 ### Active days?
-Always but mostly on weekends, normaly on the afternoon.
+When I feel like it.
 ### You are going to do some project?
-Idk, maybe, I'm planing to do some linux stuff, like something in LFS (Linux from scratch)
-### Can you help me w/ something?
-I don't know that much but I will try to help!
-### Thanks for reading 🐱‍💻
+Planing in completing the CS50 course, also interested in C++, Python and expanding my knowledge in web development
